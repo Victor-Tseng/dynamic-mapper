@@ -1,0 +1,28 @@
+# Binaries
+bin/
+obj/
+
+# User-specific files
+*.user
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+packages/
+*.nupkg
+
+# Test results
+TestResults/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+*.coverage
